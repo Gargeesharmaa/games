@@ -1,6 +1,7 @@
-# College Semester project building any two player 2 games
-
+## College Semester project building any two player 2 games using C Language
+1. tick-tack-toe
+2. connect four
 ---
 
-# Contributors
+## Contributors
 developed by Gargee Sharma and Vedant Pareek

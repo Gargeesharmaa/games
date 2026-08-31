@@ -4,4 +4,4 @@
 ---
 
 ## Contributors
-developed by Gargee Sharma and Vedant Pareek
+### developed by Gargee Sharma and Vedant Pareek
